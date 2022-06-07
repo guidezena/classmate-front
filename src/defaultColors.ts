@@ -1,0 +1,11 @@
+export enum DefaultColors {
+  LOADER_TEXT_COLOR = "#00FFE6",
+  EDIT_BUTTON = "#00FFE6",
+  TEXT_AREA_BORDER = "#1f0533",
+  EDIT_BUTTON_HOVER = "#fff",
+  NEW_BUTTON = "#1f0533",
+  NEW_BUTTON_HOVER = "#330b52",
+  NAV_BACKGROUND = "#1f0533",
+  NAV_LINK_COLOR = "#fff",
+  NAV_LINK_COLOR_ACTIVE = "#330b52",
+}
